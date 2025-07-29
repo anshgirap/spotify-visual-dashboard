@@ -1,0 +1,14 @@
+# Ignore raw dataset
+spotify_history.csv
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore temporary system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
