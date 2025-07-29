@@ -37,7 +37,8 @@ To practice data wrangling and visualization techniques by analyzing real-world 
 
 ---
 
-📥 Dataset Access
+## 📥 Dataset Access
+
 This project uses the Spotify Streaming History Dataset by Arshmankhalid on Kaggle. It features clean, structured user listening records including timestamps, track names, artist, album, platform, and playback reasons.
 
 Important: The dataset is not included in this repository due to size and privacy best practices.
