@@ -12,3 +12,9 @@ Thumbs.db
 __pycache__/
 *.pyc
 *.pyo
+
+# Ignore data and dataset files
+data/
+*.csv
+*.xlsx
+*.json

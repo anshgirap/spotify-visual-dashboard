@@ -36,3 +36,20 @@ To practice data wrangling and visualization techniques by analyzing real-world 
 - Plot styling and labeling
 
 ---
+
+📥 Dataset Access
+This project uses the Spotify Streaming History Dataset by Arshmankhalid on Kaggle. It features clean, structured user listening records including timestamps, track names, artist, album, platform, and playback reasons.
+
+Important: The dataset is not included in this repository due to size and privacy best practices.
+
+To run this project:
+
+Visit the dataset page on Kaggle:
+"Spotify Streaming History Dataset" by Arshmankhalid.
+
+Download the spotify_history.csv file (about ~6 MB).
+
+Create a folder named data/ in your project root and place the CSV inside:
+data/spotify_history.csv
+
+Launch the notebook (analysis.ipynb) — it will automatically load the file from that path.
