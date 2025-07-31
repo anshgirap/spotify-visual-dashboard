@@ -23,6 +23,7 @@ To practice data wrangling and visualization techniques by analyzing real-world 
 - `analysis.ipynb` – Notebook for data cleaning + visualizations
 - `spotify_history.csv` – Raw dataset (excluded from GitHub)
 - `README.md`, `LICENSE` – Supporting files
+- `.gitignore` - Git ignore file
 
 ---
 
